@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/AND_1bit_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/AND_ULA_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/OR_1bit_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/OR_ULA_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/ULA_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/comp_1_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/detector_de_overflow_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/soma1_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/soma_4.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sources_1/new/somador_subtrator_4bits_experimento_3.vhd" \
+"../../../../experimento_3_VHDL_ULA.srcs/sim_1/new/ULA_experimento_3_tb.vhd" \
+
+# Do not sort compile order
+nosort
